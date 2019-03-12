@@ -91,7 +91,7 @@ public class MinHeap {
         	System.out.println(minHeap.remove());
         }
         System.out.println(minHeap.Heap[1]);
-        System.out.println(minHeap.size);
+          
 	}
 
 }
